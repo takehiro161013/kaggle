@@ -5,6 +5,6 @@ house-prices/
             │           ┝train.csv/  
             │           └test.csv/  
             ┝output/  
-            │           └sample_submission.csv/
+            │           └sample_submission.csv/　　
             └house price3.ipynb/  
        
