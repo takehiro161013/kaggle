@@ -2,9 +2,9 @@
 ディレクトリ構成  
 house-prices/  
             ┝input/  
-            │            ┝train.csv/  
-            │           └test.csv/  
+            │                       ┝train.csv/  
+            │                       └test.csv/  
            ┝output/  
-            │           └sample_submission.csv/  
+            │                       └sample_submission.csv/　　 
             └house price3.ipynb/  
        
