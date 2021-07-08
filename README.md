@@ -1,4 +1,4 @@
-# houseprice  
+
 ディレクトリ構成  
 house-prices/  
 &emsp;&emsp;&emsp;┝input/  
