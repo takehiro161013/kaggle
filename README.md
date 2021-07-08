@@ -1,10 +1,10 @@
-#houseprice  
+# houseprice  
 ディレクトリ構成  
 house-prices/  
-            ┝input/  
-            │           ┝train.csv/  
-            │           └test.csv/  
-            ┝output/  
-            │           └sample_submission.csv/　　　　
-            └house price3.ipynb/  
+&emsp;┝input/  
+&emsp;│&emsp;&emsp;┝train.csv/  
+&emsp;│&emsp;&emsp;└test.csv/  
+&emsp;│output/  
+&emsp;│&emsp;&emsp;└sample_submission.csv/  
+&emsp;└house price3.ipynb/  
        
